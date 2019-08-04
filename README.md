@@ -1,3 +1,10 @@
+## API
+
+This App is using the Unsplash API to get the images.
+Go to https://unsplash.com/developers and create your account there and get an API Key.
+Paste your API Key in the unsplash.js file in Authorization section.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
